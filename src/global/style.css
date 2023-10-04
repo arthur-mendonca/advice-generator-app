@@ -1,0 +1,66 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Manrope', sans-serif;
+    background-color: var( --neutral-dark-blue);
+    width: 100vw;
+    height: 100vh;
+  }
+  
+  .font-weight-700 {
+    font-weight: 700;
+  }
+  
+  :root {
+    --primary-light-cyan: hsl(193, 38%, 86%);
+    --primary-neon-green: hsl(150, 100%, 66%);
+    --neutral-grayish-blue: hsl(217, 19%, 38%);
+    --neutral-dark-grayish-blue: hsl(217, 19%, 24%);
+    --neutral-dark-blue: hsl(218, 23%, 16%);
+    --white-fixed: hsl(0, 0%, 92%);
+  }
+  
+  @media screen and (max-width: 375px) {
+    /* Mobile styles */
+   
+  }
+  
+  @media screen and (min-width: 376px) and (max-width: 1440px) {
+    /* Desktop styles */
+   
+  }
+  
+  /* Typography */
+  body {
+    font-size: 16px; 
+  }
+  
+
+  
+  
+  .element-with-primary-light-cyan-bg {
+    background-color: var(--primary-light-cyan);
+    color: #000; /* You can set a contrasting text color here */
+  }
+  
+  .element-with-primary-neon-green-bg {
+    background-color: var(--primary-neon-green);
+    color: #000; /* You can set a contrasting text color here */
+  }
+  
+  .element-with-neutral-grayish-blue-text {
+    color: var(--neutral-grayish-blue);
+  }
+  
+  .element-with-neutral-dark-grayish-blue-text {
+    color: var(--neutral-dark-grayish-blue);
+  }
+  
+  .element-with-neutral-dark-blue-text {
+    color: var(--neutral-dark-blue);
+  }
+  

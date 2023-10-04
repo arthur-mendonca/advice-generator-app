@@ -1,0 +1,20 @@
+ .attribution{
+    position: fixed;
+    bottom: 0;
+    left: 37%;
+    padding: 10px;
+    background-color: var(--neutral-dark-grayish-blue);
+} 
+
+.links{
+    color: var(--white-fixed)
+}
+
+
+@media screen and (max-width: 375px) {
+    /* Mobile styles */
+    .attribution{
+    left: 0;
+    text-align: center;
+    }
+  }

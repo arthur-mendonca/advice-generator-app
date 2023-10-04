@@ -1,0 +1,58 @@
+.advice_wrapper{
+    border-radius: 13px;
+    background-color: var(--neutral-dark-grayish-blue);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+    padding: 0 1rem;
+}
+
+.advice_wrapper h4{
+    letter-spacing: 6px;
+    font-size: 14px;
+    color: var(--primary-neon-green);
+    padding-top: 2.5rem;
+}
+
+.advice_text{
+    font-size: 28px; 
+    text-align: center;
+}
+
+
+
+.button_wrapper button{
+    border-radius: 50%;
+    padding: 18px;
+    border: none ;
+    background-color: var(--primary-neon-green);
+}
+
+.button_wrapper button:hover {
+    filter: saturate(1.6);
+    transition: 0.2s ease;
+    cursor: pointer; 
+    box-shadow: 0 0 10px var(--primary-neon-green);
+  }
+
+.error_text{
+    color: rgb(255, 145, 18);
+}
+
+
+@media screen and (max-width: 375px) {
+    /* Mobile styles */
+
+    .divider{
+        position: relative;
+        bottom: -15px;
+    }
+    
+    .button_wrapper button{
+     position: relative;
+     bottom: -30px;
+    }
+
+    
+  }
