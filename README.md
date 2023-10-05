@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Desktop-Solution-Screenshot](src\assets\solution\desktop solution.png)
+![Desktop-Solution-Screenshot](./src/assets/solution/desktop%20solution.png)
 
 ### Links
 
