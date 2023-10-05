@@ -14,8 +14,6 @@ This is a solution to the [Advice generator app challenge on Frontend Mentor](ht
   - [Continued development](#continued-development)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -32,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add solution URL here](https://advice-generator-205y5d5v8-arthur-mendonca.vercel.app/)
+- Live Site URL: [Live Site](https://advice-generator-205y5d5v8-arthur-mendonca.vercel.app/)
 
 ## My process
 
@@ -69,6 +67,6 @@ The conditional rendering technique is a trick I will continue to use in future 
 ## Author
 
 - Website - [My Website/Portfolio](https://www.arthurmendonca.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/arthur-mendonca)
+- Frontend Mentor - [My Front End Mentor Profile](https://www.frontendmentor.io/profile/arthur-mendonca)
 - LinkedIn - [My Linkedin Profile](https://www.linkedin.com/in/arthur-silva-mendonça/)
 - Behance - [My Behance Profile](https://www.behance.net/arthurmendona)
