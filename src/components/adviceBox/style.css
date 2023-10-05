@@ -6,6 +6,9 @@
     align-items: center;
     gap: 1rem;
     padding: 0 1rem;
+    margin: 1rem;
+
+    width: 485px;
 }
 
 .advice_wrapper h4{
@@ -20,13 +23,18 @@
     text-align: center;
 }
 
-
+.divider{
+    position: relative;
+    bottom: -15px;
+}
 
 .button_wrapper button{
     border-radius: 50%;
     padding: 18px;
     border: none ;
     background-color: var(--primary-neon-green);
+    position: relative;
+    bottom: -30px;
 }
 
 .button_wrapper button:hover {
@@ -43,6 +51,10 @@
 
 @media screen and (max-width: 375px) {
     /* Mobile styles */
+    .advice_wrapper{
+        width: 90vw;
+    }
+   
 
     .divider{
         position: relative;
