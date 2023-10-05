@@ -4,6 +4,7 @@
     padding: 10px;
     width: 100%;
     background-color: var(--neutral-dark-grayish-blue);
+    text-align: center;
 } 
 
 .links{
@@ -15,6 +16,5 @@
     /* Mobile styles */
     .attribution{
     left: 0;
-    text-align: center;
     }
   }
